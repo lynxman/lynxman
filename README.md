@@ -36,6 +36,18 @@ If you want to watch previous talks we have a full archive on [YouTube](https://
 - [Autoscaling Best Practices](https://www.youtube.com/watch?v=VWw6K7ZsqVU)
 - [How to Implement Microservices](https://www.youtube.com/watch?v=bcpCn1wGe-g)
 
+### 📖 My books
+
+I have contributed to these books:
+
+- [Build Quality In](https://confluxbooks.com/books/build-quality-in)
+- [Epic failures in DevSecOps vol 1](https://cdn2.hubspot.net/hubfs/4132678/DevSecOps%20Days%20-%20Events/Epic%20Failures%20-%20Volume%201.pdf)
+- [Epic failures in DevSecOps vol 2](https://www.amazon.co.uk/Epic-Failures-2-Compliments-Sonatype/dp/B0849RWX9Y/)
+
+I have also been mentioned in this book:
+
+- [Unfair Mindshare](https://unfairmindshare.com/book)
+
 ### 🔭 My contributions
 
 - [lynxman/hiera-consul](https://github.com/lynxman/hiera-consul) - Hiera backend for Consul
@@ -54,6 +66,8 @@ If you want to watch previous talks we have a full archive on [YouTube](https://
 Learning a ton about LLM and AI, plenty of good stuff from [Patrick Debois](https://github.com/jedi4ever).
 
 Looking at the deployment space and thinking how can we make this better for everyone, Kubernetes has some really good solutions but there needs to be a way to make this easier for people outside of the K8s space. Special interest in what is happening with [FluxCD](https://github.com/fluxcd/flux2) and [ArgoCD](https://github.com/argoproj/argo-cd).
+
+Researching new ways to shorten the latency in Linux networking through [eBPF](https://ebpf.io/) and to apply it to Kubernetew through [Cillium](https://github.com/cilium/cilium).
 
 ### ❤️ Open Source love
 
