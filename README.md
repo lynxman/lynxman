@@ -10,10 +10,11 @@ Active conference speaker and community member, organizer of the London DevOps m
 [`🐦 @lynxman`](https://twitter.com/lynxman)
 [`🔑 B4BA B08F DB8D 4BD3`](https://keybase.io/lynxman/pgp_keys.asc)
 
-### 🦄 London DevOps
+### 📣 London DevOps
 
 I started [London DevOps](https://www.meetup.com/London-DevOps/) with [Matt Saunders](https://github.com/cm6051) over 10 years ago, we wanted to give back to the community and share knowledge.
 We are always looking for venues and speakers, if you are interested drop us an e-mail at [org@londondevops.co.uk](mailto:org@londondevops.co.uk)
+If you want to watch previous talks we have a full archive on [YouTube](https://www.youtube.com/@LondonDevOps)
 
 ### 🎉 Communities I represent
 
@@ -37,6 +38,8 @@ We are always looking for venues and speakers, if you are interested drop us an 
 ### 🔭 My contributions
 
 - [lynxman/hiera-consul](https://github.com/lynxman/hiera-consul) - Hiera backend for Consul
+- [trainline/upstreamr](https://github.com/trainline/upstreamr) - Upstreamer connects consul to nginx configuration and generates backends in real time
+- [trainline/environment-manager](https://github.com/trainline/environment-manager) - Full deployment platform architected by [Chris Turvil](https://github.com/ChrisTurvil) and myself
 - [canonical/cloud-init](https://github.com/canonical/cloud-init) - I wrote some modules for cloud-init
 - [canonical/maas](https://github.com/canonical/maas) - Co-created MaaS as a way to make physical infrastructure behave like public cloud
 - [lynxman/mcollective-server-provisioner](https://github.com/lynxman/mcollective-server-provisioner) - mcollective plugin to provision physical servers
@@ -49,4 +52,16 @@ We are always looking for venues and speakers, if you are interested drop us an 
 
 Learning a ton about LLM and AI, plenty of good stuff from [Patrick Debois](https://github.com/jedi4ever).
 
-Looking at the deployment space and thinking how can we make this better for everyone, Kubernetes has some really good solutions but there needs to be a way to make this easier for people outside of the K8s space.
+Looking at the deployment space and thinking how can we make this better for everyone, Kubernetes has some really good solutions but there needs to be a way to make this easier for people outside of the K8s space. Special interest in what is happening with [FluxCD](https://github.com/fluxcd/flux2) and [ArgoCD](https://github.com/argoproj/argo-cd).
+
+### ❤️ Open Source love
+
+Some people you should know:
+
+- [Patrick Debois](https://github.com/jedi4ever)
+- [John Willis](https://github.com/botchagalupe)
+- [Scott Moser](https://github.com/smoser)
+- [Dan Bode](https://github.com/bodepd)
+- [Stefan Prodan](https://github.com/stefanprodan)
+- [Matt Saunders](https://github.com/cm6051)
+- [Hannah Foxwell](https://github.com/hannahfoxwell)
