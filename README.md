@@ -69,7 +69,7 @@ Learning a ton about LLM and AI, plenty of good stuff from [Patrick Debois](http
 
 Looking at the deployment space and thinking how can we make this better for everyone, Kubernetes has some really good solutions but there needs to be a way to make this easier for people outside of the K8s space. Special interest in what is happening with [FluxCD](https://github.com/fluxcd/flux2) and [ArgoCD](https://github.com/argoproj/argo-cd).
 
-Researching new ways to shorten the latency in Linux networking through [eBPF](https://ebpf.io/) and to apply it to Kubernetew through [Cillium](https://github.com/cilium/cilium).
+Researching new ways to shorten the latency in Linux networking through [eBPF](https://ebpf.io/) and to apply it to Kubernetes through [Cillium](https://github.com/cilium/cilium).
 
 ### ❤️ Open Source love
 
@@ -83,3 +83,4 @@ Some people you should follow:
 - [Matt Saunders](https://github.com/cm6051)
 - [Hannah Foxwell](https://github.com/hannahfoxwell)
 - [Matthew Skelton](https://github.com/matthewskelton)
+- [Nico Vibert](https://github.com/nvibert)
