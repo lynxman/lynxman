@@ -23,6 +23,7 @@ If you want to watch previous talks we have a full archive on [YouTube](https://
   
 ### 🎤 My talks
 
+- [Best practices for creating highly scalable platforms for cloud native apps](https://humanitec.com/events/best-practices-for-creating-highly-scalable-platforms-for-cloud-native-apps)
 - [OSS vs Enterprise, diferencias y usos](https://www.youtube.com/watch?v=pGdjqTJmgGI)
 - [Addressing Top Security Threats in Highly Regulated Environments](https://www.youtube.com/watch?v=BI-Znl-sHeI)
 - [DevOps in a Highly Regulated Environment](https://youtu.be/n3KuP7QnMfA?si=dWrS1-UJ0dmTfUag&t=323)
@@ -56,7 +57,7 @@ Looking at the deployment space and thinking how can we make this better for eve
 
 ### ❤️ Open Source love
 
-Some people you should know:
+Some people you should follow:
 
 - [Patrick Debois](https://github.com/jedi4ever)
 - [John Willis](https://github.com/botchagalupe)
@@ -65,3 +66,4 @@ Some people you should know:
 - [Stefan Prodan](https://github.com/stefanprodan)
 - [Matt Saunders](https://github.com/cm6051)
 - [Hannah Foxwell](https://github.com/hannahfoxwell)
+- [Matthew Skelton](https://github.com/matthewskelton)
