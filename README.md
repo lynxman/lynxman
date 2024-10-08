@@ -13,7 +13,9 @@ Active conference speaker and community member, organizer of the London DevOps m
 ### 📣 London DevOps
 
 I started [London DevOps](https://www.meetup.com/London-DevOps/) with [Matt Saunders](https://github.com/cm6051) over 10 years ago, we wanted to give back to the community and share knowledge.
+&nbsp;  
 We are always looking for venues and speakers, if you are interested drop us an e-mail at [org@londondevops.co.uk](mailto:org@londondevops.co.uk)
+&nbsp;  
 If you want to watch previous talks we have a full archive on [YouTube](https://www.youtube.com/@LondonDevOps)
 
 ### 🎉 Communities I represent
